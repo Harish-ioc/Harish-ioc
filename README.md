@@ -27,3 +27,5 @@ class Bio:
             "Electronics Lead": "JU Makerspace"
         }
         self.interests = ["AI", "Robotics", "IoT", "Autonomous Systems"]
+```
+<img align= "left" width=30% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-ioc&layout=compact" />
