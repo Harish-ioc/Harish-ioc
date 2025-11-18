@@ -3,10 +3,10 @@
 <em>- Drone Systems, Embedded Linux & Real-Time CV</em></br>
 <em>- System Design • AI/ML • Robotics</em></p>
 
-<h4>Contact me at my <a href="mailto:YOUR_EMAIL_HERE">email</a> or connect with me:</h4>
+<h4>Contact me at my <a href="mailto:harishastro18@gmail.com">email</a> or connect with me:</h4>
 
 [![LinkedIn](https://img.shields.io/badge/-Harish-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harishharish0/)
-[![GitHub](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=social)](https://github.com/Harish-ioc)
+[![GitHub](https://img.shields.io/github/followers/Harish-ioc?style=social)](https://github.com/Harish-ioc)
 
 ```python
 class Bio:
