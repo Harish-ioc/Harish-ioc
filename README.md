@@ -1,4 +1,4 @@
-<h2> Hi, I'm Harish! <img src="[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXVjajRzcDE4emF6ejFoeWt0bmF0amd6c2lrNTN1dHNhcTloYWR2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AHj0lQstZ9I9W/giphy.gif)" width="50"></h2>
+<h2> Hi, I'm Harish! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJjcmd3ZHl3MXBuY2tzanhuM25pajU0ODF4OXRtc3U5Y2J5NDdleCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Cz6TlrRVVyv9S/giphy.gif" width="70"></h2>
 <p><em>- Computer Vision & IoT Enthusiast</em></br>
 <em>- Drone Systems, Embedded Linux & Real-Time CV</em></br>
 <em>- System Design • AI/ML • Robotics</em></p>
