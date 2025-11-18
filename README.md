@@ -7,6 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Harish-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harishharish0/)
 [![GitHub](https://img.shields.io/github/followers/Harish-ioc?style=social)](https://github.com/Harish-ioc)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white)](https://www.kaggle.com/codechronology)
 
 ```python
 class Bio:
